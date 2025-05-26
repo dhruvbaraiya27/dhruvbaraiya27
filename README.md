@@ -71,7 +71,7 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvbaraiya27/)  
 - 💼 [GitHub](https://github.com/dhruvbaraiya27)  
-- 📧 baraiya.d@northeastern.edu
+- 📧 Email: baraiya.d@northeastern.edu
 
 ---
 
