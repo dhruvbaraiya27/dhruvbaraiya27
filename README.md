@@ -53,7 +53,7 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 
 ## 📄 Resume
 
-<a href="./Dhruv_Baraiya_Resume.pdf" download>
+<a href="./baraiya-resume-Springboot.pdf" download>
   <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="resume badge">
 </a>
 
