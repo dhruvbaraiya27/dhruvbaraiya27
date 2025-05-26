@@ -8,7 +8,8 @@
 ## 🚀 About Me
 
 - 🎓 Master’s in Software Engineering Systems @ Northeastern University, Boston (Graduating May 2026)  
-- 💼 Former Software Developer Intern @ MD Tech Services  
+- 💼 Former Software Developer Intern @ MD Tech Services
+- 🌍 Actively looking for Software Development Engineering (SDE) Intern roles in the USA.
 - 📈 Built full-stack systems, automated CI/CD pipelines, and optimized backend performance  
 - ☁️ AWS Cloud Practitioner Certified – strong interest in cloud and infrastructure engineering  
 - 🔧 Skilled in Java, Spring Boot, REST APIs, MySQL, Docker, and Kubernetes
