@@ -68,6 +68,7 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 <a href="./Dhruv_AWS_Certification.pdf" download>
   <img src="https://img.shields.io/badge/AWS%20Certification-PDF-orange?style=for-the-badge&logo=amazonaws" alt="AWS Badge">
 </a>
+
 ---
 
 ## 📊 GitHub Stats
