@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Dhruv Baraiya!  
-**Backend Developer | Cloud Enthusiast | DevOps Learner t**
+**Backend Developer | Cloud Enthusiast | DevOps Learner **
 
 🌱 Passionate about building scalable backend systems, automating deployments, and solving real-world problems through clean and efficient code.
 
