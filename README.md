@@ -7,36 +7,40 @@
 
 ## 🚀 About Me
 
-- 🎓 Master’s in Software Engineering Systems @ Northeastern University, Boston (Graduating May 2026)  
-- 💼 Former Software Developer Intern @ MD Tech Services
-- 🌍 Actively looking for Software Development Engineering (SDE) Intern roles in the USA.
-- 📈 Built full-stack systems, automated CI/CD pipelines, and optimized backend performance  
-- ☁️ AWS Cloud Practitioner Certified – strong interest in cloud and infrastructure engineering  
-- 🔧 Skilled in Java, Spring Boot, REST APIs, MySQL, Docker, and Kubernetes
+- 🎓 Master’s in Software Engineering Systems @ Northeastern University, Boston (May 2026)
+- 💻 Former Software Developer Intern @ MD Tech Services – built Go-based microservices with Docker & Kubernetes
+- 🔧 Strong backend foundation in Go, Django, Spring Boot, and MySQL/MongoDB
+- ☁️ AWS Cloud Practitioner Certified – passionate about cloud-native infrastructure and automation
+- 🚀 Built full-stack systems, CI/CD pipelines, and scalable deployments in real-world environments
+- 🔍 Actively seeking **Software Developer Internships** (Fall 2025) in backend, cloud, and platform engineering
 
 ---
 
 ## 💻 Tech Stack
 
 **Languages**  
-Java | Python | SQL | JavaScript | TypeScript | Shell/Bash  
+Go · Java · Python · C++ · SQL · JavaScript · TypeScript · Bash
 
 **Frameworks & Libraries**  
-Spring Boot | RESTful APIs | Hibernate | JPA | Node.js | React.js | Angular  
+Gin · Spring Boot · Django · Flask · Hibernate · React.js · Node.js
 
 **Cloud & DevOps**  
-AWS | Docker | Kubernetes | Jenkins | GitHub Actions | Terraform | Ansible  
+Docker · Kubernetes · AWS EC2 · Jenkins · GitHub Actions · Terraform · CI/CD Pipelines
 
 **Databases & Tools**  
-MySQL | MongoDB | Postman | JIRA | Maven | JUnit | Mockito | Linux  
+PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · Postman · JIRA · Maven · Linux 
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📑 Student Document Request Portal  
-> Spring Boot | React.js | MySQL | Docker | CI/CD | ICICI Payment Gateway  
-Deployed a full-stack portal now officially used by DA-IICT, enabling students to request transcripts digitally and automating admin workflows.
+> Django | React | MySQL | Docker | ICICI Payment Gateway | CI/CD
+Deployed a full-stack portal now officially used by Dhirubhai Ambani University, enabling students to request transcripts digitally and automating admin workflows.
+
+### 🛠️ Go-Based Microservices @ MD Tech Services  
+> Go | Gin | MySQL | Docker | Kubernetes | Jenkins  
+Developed secure, scalable microservices with JWT auth, automated deployments, and optimized queries.
 
 ### 🩸 Scarlet Lifeline – Blood Donation App  
 > Spring Boot | MongoDB | JWT | RBAC  
