@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Dhruv Baraiya!  
-**Backend Developer | Cloud Enthusiast | DevOps Learner | Java & Spring Boot Specialist**
+**Backend Developer | Cloud Enthusiast | DevOps Learner t**
 
 🌱 Passionate about building scalable backend systems, automating deployments, and solving real-world problems through clean and efficient code.
 
@@ -84,7 +84,7 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 
 ## 📫 Let's Connect
 
-- 🔗 LinkedIn: linkedin.com/in/dhruvbaraiya27/    
+- 🔗 LinkedIn: [linkedin.com/in/dhruvbaraiya27/](https://www.linkedin.com/in/dhruvbaraiya27/)    
 - 📧 Email: baraiya.d@northeastern.edu
 
 ---
