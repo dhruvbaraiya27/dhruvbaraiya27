@@ -73,9 +73,9 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 ---
 
 ## GitHub Stats
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbaraiya27&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbaraiya27&layout=compact&theme=dark)
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbaraiya27&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbaraiya27&layout=compact&hide_border=true)
 
 ---
 
