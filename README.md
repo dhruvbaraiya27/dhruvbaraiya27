@@ -28,7 +28,7 @@ Gin · Spring Boot · Django · Flask · Hibernate · React.js · Node.js
 Docker · Kubernetes · AWS EC2 · Jenkins · GitHub Actions · Terraform · CI/CD Pipelines
 
 **Databases & Tools**  
-PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · Postman · JIRA · Maven · Linux 
+PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · jUnit · Mockito · Postman · JIRA · Maven · Linux 
 
 ---
 
