@@ -87,14 +87,6 @@ Secure courier booking system with role-based access (Customer/Courier/Admin), r
 
 ---
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvbaraiya27&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbaraiya27&layout=compact&theme=radical)
-
-
----
-
 ## Let's Connect
 
 - 🔗 LinkedIn: [linkedin.com/in/dhruvbaraiya27/](https://www.linkedin.com/in/dhruvbaraiya27/)    
