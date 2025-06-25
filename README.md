@@ -38,6 +38,13 @@ PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · jUnit · Mock
 > Django | React | MySQL | Docker | ICICI Payment Gateway | CI/CD
 Deployed a full-stack portal now officially used by Dhirubhai Ambani University, enabling students to request transcripts digitally and automating admin workflows.
 
+### Go E-commerce REST API  
+> Go | MongoDB | Gin | JWT | Docker  
+High-performance e-commerce backend with cart management, order processing, and address handling. Features clean architecture and Redis caching.
+
+### Weather App API  
+> Go | Redis | Echo | Docker | Clean Architecture  
+Performant weather service with intelligent caching, external API integration, and comprehensive error handling.
 
 ### Scarlet Lifeline – Blood Donation App  
 > Spring Boot | MongoDB | JWT | RBAC  
@@ -50,6 +57,14 @@ Automated infrastructure provisioning and app deployments, with monitoring dashb
 ### Learning Management System  
 > Node.js | React.js | MongoDB | PayPal | Cloudinary  
 Full-featured LMS with role-based access, secure payments, media handling, and course progress tracking.
+
+### Online Fashion Retail Management System  
+> Oracle SQL | PL/SQL | Triggers | Stored Procedures  
+Enterprise-grade database system with normalized schema, dynamic pricing, inventory tracking, and role-based access for fashion e-commerce.
+
+### QuickFleet - Courier Management Platform  
+> Spring Boot | MySQL | JWT | Spring Security | Docker  
+Secure courier booking system with role-based access (Customer/Courier/Admin), real-time tracking, and optimized database queries.
 
 ---
 
@@ -73,8 +88,9 @@ Full-featured LMS with role-based access, secure payments, media handling, and c
 ---
 
 ## GitHub Stats
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvbaraiya27&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbaraiya27&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvbaraiya27&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbaraiya27&layout=compact&theme=radical)
 
 
 ---
