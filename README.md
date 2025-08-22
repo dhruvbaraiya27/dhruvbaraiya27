@@ -67,14 +67,6 @@ Enterprise-grade database system with normalized schema, dynamic pricing, invent
 Secure courier booking system with role-based access (Customer/Courier/Admin), real-time tracking, and optimized database queries.
 
 ---
-
-## Resume
-
-<a href="./Dhruv_Baraiya_Resume_Go.pdf" download>
-  <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="resume badge">
-</a>
-
----
 ## Additional Documents
 
 <a href="./Dhruv_Academic_Transcript.pdf" download>
