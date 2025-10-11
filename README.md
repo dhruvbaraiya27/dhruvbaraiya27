@@ -53,7 +53,7 @@ Automated infrastructure provisioning and app deployments, with monitoring dashb
 ---
 ## Additional Documents
 
-<a href="./Dhruv_Academic_Transcript.pdf" download>
+<a href="./Dhruv_Baraiya_Transcript.pdf" download>
   <img src="https://img.shields.io/badge/Academic%20Transcript-PDF-blue?style=for-the-badge&logo=googledrive" alt="Transcript Badge">
 </a>
 
