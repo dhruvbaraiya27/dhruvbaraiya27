@@ -65,7 +65,7 @@ Automated infrastructure provisioning and app deployments, with monitoring dashb
 
 ## Let's Connect
 
-- 🔗 LinkedIn: [linkedin.com/in/dhruvbaraiya27/](https://www.linkedin.com/in/dhruvbaraiya27/)    
+- 🔗 LinkedIn: [https://www.linkedin.com/in/dhruvbaraiya27/](https://www.linkedin.com/in/dhruvbaraiya27/)    
 - 📧 Email: baraiya.d@northeastern.edu
 
 ---
