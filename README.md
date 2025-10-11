@@ -7,7 +7,7 @@
 
 ## About Me
 
--  Master’s in Software Engineering Systems @ Northeastern University, Boston (Graduating in May 2026)
+-  Master’s in Software Engineering Systems @ Northeastern University, Boston (Graduating in 2026)
 -  Former Software Developer Intern @ MD Tech Services
 -  Strong backend foundation in Java, Spring Boot, and MySQL/MongoDB
 -  AWS Cloud Practitioner Certified - passionate about cloud-native infrastructure and automation
