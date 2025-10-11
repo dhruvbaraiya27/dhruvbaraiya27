@@ -8,21 +8,21 @@
 ## About Me
 
 -  Master’s in Software Engineering Systems @ Northeastern University, Boston (Graduating in May 2026)
--  Former Software Developer Intern @ MD Tech Services – built Go-based microservices with Docker & Kubernetes
--  Strong backend foundation in Go, Django, Spring Boot, and MySQL/MongoDB
--  AWS Cloud Practitioner Certified – passionate about cloud-native infrastructure and automation
+-  Former Software Developer Intern @ MD Tech Services
+-  Strong backend foundation in Java, Spring Boot, and MySQL/MongoDB
+-  AWS Cloud Practitioner Certified - passionate about cloud-native infrastructure and automation
 -  Built full-stack systems, CI/CD pipelines, and scalable deployments in real-world environments
--  Actively seeking **Software Developer Internships** (Fall 2025) in backend, cloud, and platform engineering
+-  Actively seeking **Software Developer Internships** (Spring 2026) in backend, cloud, and platform engineering
 
 ---
 
 ## Tech Stack
 
 **Languages**  
-Go · Java · Python · C++ · SQL · JavaScript · TypeScript · Bash
+Java · Python · Go · C++ · SQL · JavaScript · TypeScript · Bash
 
 **Frameworks & Libraries**  
-Gin · Spring Boot · Django · Flask · Hibernate · React.js · Node.js
+Spring Boot · Gin · Django · Flask · Hibernate · React.js · Node.js
 
 **Cloud & DevOps**  
 Docker · Kubernetes · AWS EC2 · Jenkins · GitHub Actions · Terraform · CI/CD Pipelines
@@ -38,10 +38,6 @@ PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · jUnit · Mock
 > Django | React | MySQL | Docker | ICICI Payment Gateway | CI/CD
 Deployed a full-stack portal now officially used by Dhirubhai Ambani University, enabling students to request transcripts digitally and automating admin workflows.
 
-### Go E-commerce REST API  
-> Go | MongoDB | Gin | JWT | Docker  
-High-performance e-commerce backend with cart management, order processing, and address handling. Features clean architecture and Redis caching.
-
 ### Weather App API  
 > Go | Redis | Echo | Docker | Clean Architecture  
 Performant weather service with intelligent caching, external API integration, and comprehensive error handling.
@@ -53,18 +49,6 @@ A secure real-time platform for hospital-donor coordination with modular OOD and
 ### AWS Cloud Deployment Pipeline  
 > GitHub Actions | Docker | Kubernetes | Terraform  
 Automated infrastructure provisioning and app deployments, with monitoring dashboards for observability.
-
-### Learning Management System  
-> Node.js | React.js | MongoDB | PayPal | Cloudinary  
-Full-featured LMS with role-based access, secure payments, media handling, and course progress tracking.
-
-### Online Fashion Retail Management System  
-> Oracle SQL | PL/SQL | Triggers | Stored Procedures  
-Enterprise-grade database system with normalized schema, dynamic pricing, inventory tracking, and role-based access for fashion e-commerce.
-
-### QuickFleet - Courier Management Platform  
-> Spring Boot | MySQL | JWT | Spring Security | Docker  
-Secure courier booking system with role-based access (Customer/Courier/Admin), real-time tracking, and optimized database queries.
 
 ---
 ## Additional Documents
