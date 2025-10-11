@@ -35,7 +35,7 @@ PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · jUnit · Mock
 ## Featured Projects
 
 ### Student Document Request Portal  
-> Django | React | MySQL | Docker | ICICI Payment Gateway | CI/CD
+> Springboot | React | MySQL | ICICI Payment Gateway
 Deployed a full-stack portal now officially used by Dhirubhai Ambani University, enabling students to request transcripts digitally and automating admin workflows.
 
 ### Weather App API  
