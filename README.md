@@ -35,8 +35,12 @@ PostgreSQL · MySQL · MongoDB · Redis · Go testing · pyTest · jUnit · Mock
 ## Featured Projects
 
 ### Student Document Request Portal  
-> Springboot | React | MySQL | ICICI Payment Gateway
+> Django | React | MySQL | Docker | ICICI Payment Gateway | CI/CD
 Deployed a full-stack portal now officially used by Dhirubhai Ambani University, enabling students to request transcripts digitally and automating admin workflows.
+
+### Go E-commerce REST API  
+> Go | MongoDB | Gin | JWT | Docker  
+High-performance e-commerce backend with cart management, order processing, and address handling. Features clean architecture and Redis caching.
 
 ### Weather App API  
 > Go | Redis | Echo | Docker | Clean Architecture  
@@ -50,7 +54,22 @@ A secure real-time platform for hospital-donor coordination with modular OOD and
 > GitHub Actions | Docker | Kubernetes | Terraform  
 Automated infrastructure provisioning and app deployments, with monitoring dashboards for observability.
 
+### Learning Management System  
+> Node.js | React.js | MongoDB | PayPal | Cloudinary  
+Full-featured LMS with role-based access, secure payments, media handling, and course progress tracking.
+
+### Online Fashion Retail Management System  
+> Oracle SQL | PL/SQL | Triggers | Stored Procedures  
+Enterprise-grade database system with normalized schema, dynamic pricing, inventory tracking, and role-based access for fashion e-commerce.
 ---
+
+## Resume
+<a href="./Dhruv-Baraiya-Resume.pdf" download>
+  <img src="https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=googledrive" alt="Resume Badge">
+</a>
+
+---
+
 ## Additional Documents
 
 <a href="./Dhruv_Baraiya_Transcript.pdf" download>
